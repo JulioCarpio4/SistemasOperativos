@@ -1,0 +1,5 @@
+C:\Users\Edgar Carpio\Desktop\IClase\IClase\bin\Debug\IClase.dll
+C:\Users\Edgar Carpio\Desktop\IClase\IClase\bin\Debug\IClase.pdb
+C:\Users\Edgar Carpio\Desktop\IClase\IClase\obj\Debug\IClase.csprojResolveAssemblyReference.cache
+C:\Users\Edgar Carpio\Desktop\IClase\IClase\obj\Debug\IClase.dll
+C:\Users\Edgar Carpio\Desktop\IClase\IClase\obj\Debug\IClase.pdb

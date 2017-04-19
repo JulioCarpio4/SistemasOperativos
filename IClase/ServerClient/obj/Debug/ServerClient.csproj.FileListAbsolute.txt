@@ -1,0 +1,8 @@
+C:\Users\Edgar Carpio\Desktop\IClase\ServerClient\bin\Debug\ServerClient.exe.config
+C:\Users\Edgar Carpio\Desktop\IClase\ServerClient\bin\Debug\ServerClient.exe
+C:\Users\Edgar Carpio\Desktop\IClase\ServerClient\bin\Debug\ServerClient.pdb
+C:\Users\Edgar Carpio\Desktop\IClase\ServerClient\bin\Debug\IClase.dll
+C:\Users\Edgar Carpio\Desktop\IClase\ServerClient\bin\Debug\IClase.pdb
+C:\Users\Edgar Carpio\Desktop\IClase\ServerClient\obj\Debug\ServerClient.csprojResolveAssemblyReference.cache
+C:\Users\Edgar Carpio\Desktop\IClase\ServerClient\obj\Debug\ServerClient.exe
+C:\Users\Edgar Carpio\Desktop\IClase\ServerClient\obj\Debug\ServerClient.pdb
